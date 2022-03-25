@@ -1,7 +1,7 @@
 # SQL-Learning
 Repository containing SQL learning
 
-Files containing databases which i have created; code containing SQL commands such as: 
+Files containing simple tables, databased which i have created; Written code/queries containing SQL commands such as: 
  
  1. Creating Databases and Tables
  2. Inserting Data
