@@ -109,7 +109,7 @@ CREATE TABLE comments (
     created_at TIMESTAMP DEFAULT NOW()
 );
  
-INSERT INTO comments (content) VALUES('lol what a funny article');
+INSERT INTO comments (content) VALUES('what a funny article');
  
 INSERT INTO comments (content) VALUES('I found this offensive');
  
@@ -128,7 +128,7 @@ INSERT INTO comments2 (content) VALUES('lololololo');
  
 INSERT INTO comments2 (content) VALUES('I LIKE CATS AND DOGS');
  
-UPDATE comments2 SET content='THIS IS NOT GIBBERISH' WHERE content='dasdasdasd';
+UPDATE comments2 SET content='THIS IS SQL' WHERE content='dasdasdasd';
  
 SELECT * FROM comments2;
  
